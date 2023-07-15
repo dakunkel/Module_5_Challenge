@@ -6,7 +6,7 @@
 
 * [MCForecastTools toolkit](MCForecastTools.py)
 
-### * NOTE: Make sure you .env file for API Keys is saved in your root directory in order to pull Alpaca API data properly.
+### * NOTE: Make sure your .env file for API Keys is saved in your root directory in order to pull Alpaca API data properly.
 
 
 ## Instructions
